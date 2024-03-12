@@ -4,3 +4,4 @@
 [GitHub](https://github.com/Nathanwoodburn/firewalletbrowser)
 
 ## Objective:
+- Add support for Ledger signing
