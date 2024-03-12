@@ -16,23 +16,23 @@ Projects & Prizes - need to define, link resources & attach prizes
 
 
 ### Wallet Wish List
-- Bob
-- Bob extension
-- Firewallet
+- [Bob](/wallets/bob.md)
+- [Bob extension](/wallets/bob-extension.md)
+- [Firewallet](/wallets/firewallet.md)
 
 
 ### Messaging apps
-- [email](/messaging/email.md) - Andrei Spec
-- signal / TG via Handshake names
-- Bang (other Andrew Lee will come up with a wish list)
-- Fediverse
+- [Email](/messaging/email.md) - Andrei Spec
+- [Signal / TG via Handshake names](/messaging/signal.md)
+- [Bang](/messaging/bang.md) - other Andrew Lee
+- [Fediverse](/messaging/fediverse.md)
 
 
 ### Decentralized Social Network
-- Nostr
-- Bluesky
-- New
+- [Nostr](/social/nostr.md)
+- [Bluesky](/social/bluesky.md)
+- [New](/social/new.md)
 
 
 ### Protocol
-- Extension Blocks
+- [Extension Blocks](/protocol/extension-blocks.md)
