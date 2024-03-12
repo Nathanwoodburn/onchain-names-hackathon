@@ -22,7 +22,7 @@ Projects & Prizes - need to define, link resources & attach prizes
 
 
 ### Messaging apps
-- [email](email.md) - Andrei Spec
+- [email](/messaging/email.md) - Andrei Spec
 - signal / TG via Handshake names
 - Bang (other Andrew Lee will come up with a wish list)
 - Fediverse
