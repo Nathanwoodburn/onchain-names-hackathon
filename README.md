@@ -31,7 +31,7 @@ Projects & Prizes - need to define, link resources & attach prizes
 ### Decentralized Social Network
 - [Nostr](/social/nostr.md)
 - [Bluesky](/social/bluesky.md)
-- [New](/social/new.md)
+- [New](/social/new.md) - Jacky
 
 
 ### Protocol

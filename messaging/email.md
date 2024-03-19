@@ -33,7 +33,9 @@ documentation is required for setting up the email server.
 email server and client. Instructions should be clear,
 concise, and encompass all necessary steps for
 successful implementation.
-Deliverables:
+
+
+## Deliverables:
 
 - Email Server Setup:
   - Use an open-source email server solution like [Modoboa](https://github.com/modoboa/modoboa) to establish a
@@ -41,17 +43,14 @@ secure email server environment.
   - Configure the server to interact solely with Handshak $HNS domains, ensuring seamless integration within the Handshake ecosystem.
   - Utilize [HNSD](https://github.com/handshake-org/hnsd) for
 DNS resolution.
+  - Documentation should include a step-by-step guide for setting up the email server, including all necessary
 
 - Email Client Configuration:
   - Use an open-source, end-to-end encrypted email client
 like [Tuta](https://github.com/tutao/tutanota) or similar.
   - Configure the email client to exclusively communicate
 with Handshake $HNS domains.
-
-- Documentation:
-  - Provide clear and concise documentation detailing the
-setup process for both the email server and client
-configurations.
+  - Documentation should include a step-by-step guide for setting up the email client, including all necessary
 
 
 ## Evaluation Criteria:
