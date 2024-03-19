@@ -37,7 +37,7 @@ successful implementation.
 
 ## Deliverables:
 
-- Email Server Setup:
+- Email Server Setup (80% of bounty):
   - Use an open-source email server solution like [Modoboa](https://github.com/modoboa/modoboa) to establish a
 secure email server environment.
   - Configure the server to interact solely with Handshak $HNS domains, ensuring seamless integration within the Handshake ecosystem.
@@ -45,7 +45,7 @@ secure email server environment.
 DNS resolution.
   - Documentation should include a step-by-step guide for setting up the email server, including all necessary
 
-- Email Client Configuration:
+- Email Client Configuration (20% of bounty):
   - Use an open-source, end-to-end encrypted email client
 like [Tuta](https://github.com/tutao/tutanota) or similar.
   - Configure the email client to exclusively communicate
