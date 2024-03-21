@@ -43,14 +43,14 @@ secure email server environment.
   - Configure the server to interact solely with Handshak $HNS domains, ensuring seamless integration within the Handshake ecosystem.
   - Utilize [HNSD](https://github.com/handshake-org/hnsd) for
 DNS resolution.
-  - Documentation should include a step-by-step guide for setting up the email server, including all necessary
+  - Documentation should include a step-by-step guide for setting up the email server, including all necessary dependencies and configurations.
 
 - Email Client Configuration (20% of bounty):
   - Use an open-source, end-to-end encrypted email client
 like [Tuta](https://github.com/tutao/tutanota) or similar.
   - Configure the email client to exclusively communicate
 with Handshake $HNS domains.
-  - Documentation should include a step-by-step guide for setting up the email client, including all necessary
+  - Documentation should include a step-by-step guide for setting up the email client, including all necessary dependencies and configurations.
 
 
 ## Evaluation Criteria:
