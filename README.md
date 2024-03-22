@@ -1,11 +1,10 @@
 # ONCHAIN NAMES HACKATHON
 
 
-Projects & Prizes - need to define, link resources & attach prizes
 
 ## What is Handshake? How does Handshake work?
 
-
+See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://learn.namebase.io)
 
 ## Projects
 

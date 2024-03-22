@@ -1,5 +1,7 @@
 # Hackathon Task: Building a Secure Email System for Handshake $HNS Domains
 
+This project has a bounty of $5,000 USD
+
 ## Objective:
 
 Participants are tasked with developing an email server and client
