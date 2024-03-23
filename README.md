@@ -1,10 +1,10 @@
 # ONCHAIN NAMES HACKATHON
+## [Introduction](/intro.md)
 
 
+<!-- ## What is Handshake? How does Handshake work?
 
-## What is Handshake? How does Handshake work?
-
-See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://learn.namebase.io)
+See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://learn.namebase.io) -->
 
 ## Projects
 
@@ -39,3 +39,7 @@ See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://
 
 ### Your Project
 - [Your Project](/your-project.md)
+
+
+## Resources
+- [Dev Links](/resources/dev-links.md)
