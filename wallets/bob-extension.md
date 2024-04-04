@@ -1,16 +1,15 @@
-# Bob Extension Wallet
+# Bob Extension Wallet Enhancement: Adding Wallet Connector
 
 [Website](https://bobwallet.io/)  
 [GitHub](https://github.com/kyokan/bob-extension)
 
+## Objectives:
+- **Wallet Connector Addition**: Enhance Bob Extension Wallet by adding a wallet connector.
+  - Utilize the existing Ledger support added through [PR #28](https://github.com/kyokan/bob-extension/pull/28).
+  - Develop a JavaScript library for interacting with Bob Extension Wallet.
 
-## Objectives
-
-- Add Wallet connector to Bob Extension Wallet
-  - Build on top of Bob wallet using ledger signing [https://github.com/kyokan/bob-extension/pull/28](PR that added Ledger support)
-  - Build a javascript library that can be used to interact with Bob Extension Wallet
-
-## Deliverables
-- A proof of concept of a wallet connector that can be used to interact with Bob Extension Wallet
-- Documentation on how the wallet connector works, how to use it, how to interact with Bob Extension Wallet
-- A demo application that uses the wallet connector to interact send a transaction using Bob Extension Wallet to sign the transaction
+## Deliverables:
+- **Wallet Connector Proof of Concept**:
+  - Develop a wallet connector proof of concept for interacting with Bob Extension Wallet.
+  - Document the functionality of the wallet connector, how to use it, and how to interact with Bob Extension Wallet.
+  - Provide a demo application demonstrating the use of the wallet connector to send a transaction using Bob Extension Wallet for signing.

@@ -4,16 +4,17 @@
 [GitHub](https://github.com/Nathanwoodburn/firewalletbrowser)
 
 ## Objectives:
-- Add support for Ledger signing to FireWallet. 
-- Create a plugin to add a feature or automatin to FireWallet
+- **Enhancement**: Add support for Ledger signing to FireWallet.
+- **Plugin Development**: Create a plugin to add a feature or automation to FireWallet.
+  - [Plugin docs](https://github.com/Nathanwoodburn/firewalletbrowser/blob/main/plugins.md)
 
 ## Deliverables:
-- A proof of concept of a wallet connector that can be used to interact with FireWallet
-- Documentation on how the wallet connector works, how to use it, how to interact with FireWallet
-- A demo application that uses the wallet connector to interact send a transaction using FireWallet to sign the transaction
+### Wallet Connector Proof of Concept (95% of bounty)
+- Develop a wallet connector proof of concept that can be used to interact with FireWallet.
+- Document how the wallet connector works, how to use it, and how to interact with FireWallet.
+- Provide a demo application that uses the wallet connector to send a transaction using FireWallet for signing.
 
-<br>
-
-- A plugin that adds a feature or automation to FireWallet
-- Documentation on how the plugin works, how to use it, how to interact with FireWallet
-- A demo application that uses the plugin to add a feature or automation to FireWallet
+### Plugin Development (5% of bounty)
+- Create a plugin that adds a feature or automation to FireWallet.
+- Document how the plugin works, how to use it, and how to interact with FireWallet.
+- Provide a demo application that uses the plugin to add a feature or automation to FireWallet.
