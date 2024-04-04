@@ -9,14 +9,14 @@
 - Solana
 - Cosmos
 
-This project has a bounty for $250 USD  
+This project has a bounty for $300 USD  
 [More info](/interoperability/README.md)
 
 
 ### Wallet Updates
 - [Bob](/wallets/bob.md)
 - [Bob extension](/wallets/bob-extension.md) (US$500 bounty)
-- [Firewallet](/wallets/firewallet.md) (US$100 bounty)
+- [Firewallet](/wallets/firewallet.md) (US200 bounty)
 
 
 ### Messaging apps
@@ -28,7 +28,7 @@ This project has a bounty for $250 USD
 ### Decentralized Social Network
 - [Nostr](/social/nostr.md) (US$250)
 - [Bluesky](/social/bluesky.md) (US$250)
-- [Footnote](/social/footnote.md) (US$250)
+- [Footnote](/social/footnote.md) (US$100)
 
 
 ### Protocol
