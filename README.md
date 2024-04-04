@@ -2,16 +2,14 @@
 ## [Introduction](/intro.md)
 
 
-<!-- ## What is Handshake? How does Handshake work?
-
-See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://learn.namebase.io) -->
-
 ## Projects
 
 ### Interoperability / Onchain SLD
 - Other ETH L2
 - Solana
 - Cosmos
+  
+[More info](/interoperability/README.md)
 
 
 ### Wallet Wish List
@@ -21,7 +19,7 @@ See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://
 
 
 ### Messaging apps
-- [Email](/messaging/email.md) - Andrei Spec
+- [Email](/messaging/email.md)
 - [Signal / TG via Handshake names](/messaging/signal.md)
 - [Bang](/messaging/bang.md) - other Andrew Lee
 - [Fediverse](/messaging/fediverse.md)
@@ -34,6 +32,9 @@ See [Skyinclude](https://skyinclude.com) and [Namebase learning centre](https://
 
 
 ### Protocol
+- [L2 for Handshake](/protocol/l2.md)
+- [Inscriptions on Handshake](/protocol/inscriptions.md)
+- [SLDs on Handshake](/protocol/slds.md)
 - [Extension Blocks](/protocol/extension-blocks.md)
 
 

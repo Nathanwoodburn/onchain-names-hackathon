@@ -28,7 +28,7 @@ Furthermore, digital identity is a) portable in that the user can bring his iden
 And the most effective digital identity, it should take the form of a domain.
 
 A domain name may be the most useful type of pseudonym
-f(“Your name”) <
-f(“yourname.eth”) =
-f(“yourpseudonym.eth”)
+`Your name` <
+`yourname.eth` =
+`yourpseudonym.eth`
 ...in terms of functionality
