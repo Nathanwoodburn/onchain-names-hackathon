@@ -1,0 +1,3 @@
+# Footnote
+
+Footnote is a decentralized social network that allows users to create and share content with others. It is built on the Handshake blockchain and uses the HNS TLDs to create a censorship-resistant platform. Users can create posts, follow others, and interact with content in a decentralized manner. Footnote aims to provide a platform for free speech and content creation without the fear of censorship or deplatforming. The project is currently in development and is looking for contributors to help build the platform.

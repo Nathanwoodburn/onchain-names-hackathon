@@ -27,7 +27,7 @@
 ### Decentralized Social Network
 - [Nostr](/social/nostr.md)
 - [Bluesky](/social/bluesky.md)
-- [New](/social/new.md) - Jacky
+- [Footnote](/social/footnote.md)
 
 
 ### Protocol
