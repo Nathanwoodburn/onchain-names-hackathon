@@ -1,4 +1,4 @@
-# Bang Protocol (AKA DwebChat or IRC)
+# Dweb Chat
 
 ## Description
 TBD

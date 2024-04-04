@@ -19,9 +19,8 @@
 
 
 ### Messaging apps
-- [Email](/messaging/email.md)
-- [Signal / TG via Handshake names](/messaging/signal.md)
-- [Bang](/messaging/bang.md) - other Andrew Lee
+- [Email](/messaging/email.md) (US$5000 bounty)
+- [Dwebchat](/messaging/dwebchat.md)
 - [Fediverse](/messaging/fediverse.md)
 
 
@@ -32,9 +31,9 @@
 
 
 ### Protocol
-- [L2 for Handshake](/protocol/l2.md)
-- [Inscriptions on Handshake](/protocol/inscriptions.md)
-- [SLDs on Handshake](/protocol/slds.md)
+- [L2 for Handshake](/protocol/l2.md) (US$1000 bounty)
+- [Inscriptions on Handshake](/protocol/inscriptions.md) (US$1000 bounty)
+- [SLDs on Handshake](/protocol/slds.md) (US$1000 bounty)
 
 
 ### Your Project
