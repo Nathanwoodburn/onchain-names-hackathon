@@ -6,6 +6,8 @@ The Handshake blockchain only deals with the root zone i.e. Top Level Domains (T
 
 This task is to explore different ways and implement a solution to also store Second Level Domains (SLDs) on chain.
 
+This project has a bounty for $250 USD
+
 ## Requirements
 
 1. SLD registrations and ownership should be on the Handshake chain

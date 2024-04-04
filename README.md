@@ -4,18 +4,19 @@
 
 ## Projects
 
-### Interoperability
+### Interoperability with other blockchains
 - Other ETH L2
 - Solana
 - Cosmos
-  
+
+This project has a bounty for $250 USD  
 [More info](/interoperability/README.md)
 
 
-### Wallet Wish List
+### Wallet Updates
 - [Bob](/wallets/bob.md)
-- [Bob extension](/wallets/bob-extension.md)
-- [Firewallet](/wallets/firewallet.md)
+- [Bob extension](/wallets/bob-extension.md) (US$500 bounty)
+- [Firewallet](/wallets/firewallet.md) (US$100 bounty)
 
 
 ### Messaging apps
