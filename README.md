@@ -21,14 +21,14 @@ This project has a bounty for $250 USD
 
 ### Messaging apps
 - [Email](/messaging/email.md) (US$5000 bounty)
-- [Dwebchat](/messaging/dwebchat.md)
-- [Fediverse](/messaging/fediverse.md)
+- [Dwebchat](/messaging/dwebchat.md) (US$250 bounty)
+- [Fediverse](/messaging/fediverse.md) (US$400 bounty)
 
 
 ### Decentralized Social Network
-- [Nostr](/social/nostr.md)
-- [Bluesky](/social/bluesky.md)
-- [Footnote](/social/footnote.md)
+- [Nostr](/social/nostr.md) (US$250)
+- [Bluesky](/social/bluesky.md) (US$250)
+- [Footnote](/social/footnote.md) (US$250)
 
 
 ### Protocol
