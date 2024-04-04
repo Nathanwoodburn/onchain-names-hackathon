@@ -21,7 +21,7 @@ Participants are tasked with developing a Nostr client capable of resolving Hand
 
 ## Deliverables:
 
-- Nostr Client Implementation (100% of bounty):
+- Nostr Client Implementation:
   - Develop a Nostr client that efficiently resolves both Handshake $HNS and ICANN domains.
   - Ensure the client is secure and robust, protecting against malicious attacks and ensuring reliable resolution for both types of domains.
   - Documentation should include a step-by-step guide for setting up the Nostr client, including all necessary dependencies and configurations.
