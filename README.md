@@ -21,7 +21,7 @@ This project has a bounty for $250 USD
 
 ### Messaging apps
 - [Email](/messaging/email.md) (US$5000 bounty)
-- [Dwebchat](/messaging/dwebchat.md) (US$250 bounty)
+- [dwebchat](/messaging/dwebchat.md) (US$250 bounty)
 - [Fediverse](/messaging/fediverse.md) (US$400 bounty)
 
 
