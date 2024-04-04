@@ -15,13 +15,7 @@ This task is to explore different ways and implement a solution to also store Se
 ## Deliverables
 
 1. Either a working/resolving SLD on a test network, or a test script covering all requirements above
-
-## Evaluation Criteria (TODO: should this be public?)
-
-1. Adherence to task requirements and specifications
-2. Security and robustness of the implemented solution
-3. Balance of decentralization and practicality [TODO: reframe]
-4. Overall creativity and innovation
+2. A write-up of the solution and how it works
 
 
 

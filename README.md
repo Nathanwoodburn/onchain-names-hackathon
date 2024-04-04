@@ -4,7 +4,7 @@
 
 ## Projects
 
-### Interoperability / Onchain SLD
+### Interoperability
 - Other ETH L2
 - Solana
 - Cosmos
@@ -35,7 +35,6 @@
 - [L2 for Handshake](/protocol/l2.md)
 - [Inscriptions on Handshake](/protocol/inscriptions.md)
 - [SLDs on Handshake](/protocol/slds.md)
-- [Extension Blocks](/protocol/extension-blocks.md)
 
 
 ### Your Project
